@@ -1,0 +1,27 @@
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.exe
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.deps.json
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.runtimeconfig.json
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.runtimeconfig.dev.json
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.dll
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.pdb
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.csprojAssemblyReference.cache
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.AssemblyInfoInputs.cache
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.AssemblyInfo.cs
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.csproj.CoreCompileInputs.cache
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.dll
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.pdb
+D:\BAI TAP TRUONG\Bai tap lap trinh windows\Bai KT 2\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.genruntimeconfig.cache
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.exe
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.deps.json
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.runtimeconfig.json
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.runtimeconfig.dev.json
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.dll
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\bin\Debug\netcoreapp3.1\KiemTraQLNV.pdb
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.AssemblyInfo.cs
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.dll
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.pdb
+C:\Users\PC\Downloads\New folder (4)\KiemTraQLNV\KiemTraQLNV\obj\Debug\netcoreapp3.1\KiemTraQLNV.genruntimeconfig.cache
